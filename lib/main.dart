@@ -20,7 +20,7 @@ class ChatViewerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Chat Viewer',
+      title: 'ChatVault',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.whatsAppTheme(),
       home: const ChatListScreen(),
