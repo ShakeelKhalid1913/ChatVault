@@ -2,6 +2,7 @@
 
 A beautiful Flutter app for visualizing and analyzing chat exports from your favorite messaging platforms. Import conversations, explore them with powerful search, and view messages with rich formatting support. Perfect for reviewing chat history, analyzing conversations, or simply re-reading important moments from your chats.
 
+
 **Currently supports WhatsApp** • Instagram, Telegram & Facebook coming soon
 
 ## Features
